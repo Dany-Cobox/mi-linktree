@@ -23,11 +23,13 @@ header{
 }
 
 header img {
-  width: 100px;
-  height: 100px;
-  border-radius: 50%;
-  display: block;
-  margin: 0 auto 10px auto;
+   
+    background-size: cover;
+    height: 300px;
+  
+    border-radius: 50%;
+    display: block;
+    margin: 0 auto 10px auto;
 
 }
 
@@ -90,5 +92,12 @@ header p{
 
 
 main{
-    margin-bottom: 5px;
+  
+}
+
+footer{
+    border-bottom: 3px solid black;
+    width: 100%;
+    margin-top: 55px;
+    
 }
